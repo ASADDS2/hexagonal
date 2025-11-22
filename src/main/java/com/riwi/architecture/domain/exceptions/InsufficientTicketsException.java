@@ -1,4 +1,4 @@
-package com.riwi.architecture.domain.ports.exceptions;
+package com.riwi.architecture.domain.exceptions;
 
 public class InsufficientTicketsException extends RuntimeException {
     public InsufficientTicketsException(String message) {

@@ -1,4 +1,4 @@
-package com.riwi.architecture.domain.ports.exceptions;
+package com.riwi.architecture.domain.exceptions;
 
 public class InvalidEventDataException extends RuntimeException {
     public InvalidEventDataException(String message) {

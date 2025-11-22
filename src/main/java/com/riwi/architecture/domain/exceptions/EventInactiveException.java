@@ -1,4 +1,4 @@
-package com.riwi.architecture.domain.ports.exceptions;
+package com.riwi.architecture.domain.exceptions;
 
 public class EventInactiveException extends RuntimeException {
     public EventInactiveException(String message) {

@@ -1,4 +1,4 @@
-package com.riwi.architecture.domain.ports.exceptions;
+package com.riwi.architecture.domain.exceptions;
 
 public class EventNotFoundException extends RuntimeException {
     public EventNotFoundException(String message) {
